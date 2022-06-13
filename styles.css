@@ -10,14 +10,19 @@
 	--fontFamily: "Roboto Mono", monospace;
 }
 
-body {
-	background-image: url("https://images.hdqwalls.com/wallpapers/arcane-jinx-fanart-d7.jpg");
+html {
+	background-image: url("https://images6.alphacoders.com/909/thumb-1920-909048.jpg");
 	/*https://images.hdqwalls.com/wallpapers/arcane-jinx-fanart-d7.jpg
-  https://images.hdqwalls.com/wallpapers/arcane-jinx-fanart-d7.jpg
-  https://images.hdqwalls.com/wallpapers/bthumb/2022-jinx-league-of-legends-5k-ep.jpg*/
+  https://images.hdqwalls.com/wallpapers/bthumb/jinx-lol-artwork-4k-5s.jpg
+  https://images.hdqwalls.com/wallpapers/bthumb/2022-jinx-league-of-legends-5k-ep.jpg
+  https://images6.alphacoders.com/909/thumb-1920-909048.jpg*/
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
+	height: 100%;
+}
+
+body {
 	/*background-color: var(--bg);*/
 	margin: 0px;
 }
